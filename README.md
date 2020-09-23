@@ -13,6 +13,10 @@ The maturity of the Shiny app corresponds to an early mvp stage of a data produc
 
 This repository contains the R code of the R Shiny application.
 
+## Data
+
+This respository does not contain the required dataset
+
 ## Shiny App
 
 The Shiny app is available on shinyapps.io: [Peak Navigator](https://synsugar.shinyapps.io/Peak_Visualization/)
