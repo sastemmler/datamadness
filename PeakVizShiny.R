@@ -7,7 +7,7 @@ library(shiny)
 
 ### LOAD DATA ####
 
-FILE <- 'deine-berge.json'
+FILE <- 'meine-berge.json'
 peakFile <- fromJSON(FILE)
 
 # for filter input
